@@ -1,0 +1,51 @@
+languages
+01 Catonese/Mandarin
+02 English
+03 Hindi
+04 Japanese 
+05 Kannada
+06 Korean
+07 Tagalog
+08 Taiwanese
+09 Tamil
+10 Telugu
+11 Thai
+12 any
+
+
+GENRE
+
+01 Action 
+02 Adventure
+03 Business
+04 Comedy
+05 Crime
+06 Detective
+07 Doccumentary
+08 Drama
+09 Family
+10 Fantasy
+11 Friendship
+12 Gore
+13 Historical
+14 Horror
+15 Law
+16 Martial arts
+17 Medical
+18 Melodrama
+19 Military
+20 Music
+21 Mystery
+22 Political
+23 Psychological
+24 Romance
+25 school
+26 Sci-Fi
+27 Sports
+28 Supernatural
+29 Suspense
+30 Thriller
+31 Tragedy
+32 War
+33 Youth
+34 any
